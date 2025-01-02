@@ -10,13 +10,17 @@ body {
 }
 #presentationText{
     background: gray;
-    background: rgba(128, 128, 128, 0.4);
+    background: rgba(128, 128, 128, 0.7);
     border-radius: 30px;
     color: white
 }
 
 #rodolfo-other {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(128, 128, 128, 0.7);
     border-radius: 30px;
-    color: black
+    color: white
+}
+#custom-padding {
+        padding-left: 275px;  /* Ajuste para o valor desejado */
+        padding-right: 275px; /* Ajuste para o valor desejado */
 }
