@@ -1,4 +1,4 @@
-#firstPresentation {
+body {
     background-image: url('images/pexels-pixabay-316080.jpg');
     background-size: cover;
     background-position: center;
@@ -10,7 +10,13 @@
 }
 #presentationText{
     background: gray;
-    background: rgba(128, 128, 128, 0.6);
+    background: rgba(128, 128, 128, 0.4);
+    border-radius: 30px;
+    color: white
+}
+
+.rodolfo-other {
+    background: rgba(128, 128, 128, 0.4);
     border-radius: 30px;
     color: white
 }
